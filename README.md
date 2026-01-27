@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">Tenho 24 anos, moro em São Paulo (SP) e atuo na área de Tecnologia da Informação há cerca de 3 anos, com experiência prática em suporte técnico, resolução de problemas, análise de ambientes e contato direto com usuários e sistemas em produção.<br><br>Atualmente estou em transição de carreira para Cloud Computing e DevOps, buscando evoluir de um papel mais operacional para uma atuação focada em automação, infraestrutura, confiabilidade e escalabilidade. Essa transição nasce da vontade de ir além do “apagar incêndios” e passar a construir ambientes bem estruturados, previsíveis e automatizados.<br><br>Meu perfil é mão na massa: aprendo fazendo, testando, errando e ajustando. Gosto de entender o funcionamento real das coisas — desde como um container sobe até como aplicações se comunicam, como ambientes são configurados e como falhas podem ser prevenidas com boas práticas.<br><br>Acredito fortemente que DevOps não é só ferramenta, mas mentalidade: melhoria contínua, colaboração, documentação clara e responsabilidade sobre o que é entregue em produção.</p>
+<p align="left">Tenho 24 anos, moro em São Paulo (SP) e atuo na área de Tecnologia da Informação há cerca de 3 anos, com experiência prática em suporte técnico, resolução de problemas, análise de ambientes e contato direto com usuários e sistemas em produção. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e atualmente realizo pós-graduação em Cloud Computing e DevOps na FIAP.
+
+Estou em transição de carreira para Cloud Computing e DevOps, buscando evoluir de um papel mais operacional para uma atuação focada em automação, infraestrutura, confiabilidade e escalabilidade. Essa transição vem da vontade de ir além do “apagar incêndios” e passar a construir ambientes mais estruturados, previsíveis e automatizados.
+
+Tenho um perfil mão na massa: aprendo fazendo, testando, errando e ajustando. Gosto de entender o funcionamento prático das coisas — desde a subida de containers até a comunicação entre aplicações, a configuração de ambientes e a prevenção de falhas com boas práticas.
+
+Acredito que DevOps vai além de ferramentas, sendo uma mentalidade baseada em melhoria contínua, colaboração, documentação clara e responsabilidade sobre o que é entregue em produção.
+</p>
 
 ###
 
