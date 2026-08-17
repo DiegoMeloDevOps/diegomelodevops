@@ -1,42 +1,63 @@
-<h1 align="left">👨‍💻 Diego Melo</h1>
+<h1 align="left">👨‍💻 Diego Melo | Cloud & DevOps Analyst</h1>
 
 ###
 
-<p align="left">Tenho 24 anos, moro em São Paulo (SP) e atuo na área de Tecnologia da Informação há cerca de 3 anos, com experiência prática em suporte técnico, resolução de problemas, análise de ambientes e contato direto com usuários e sistemas em produção. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e atualmente realizo pós-graduação em Cloud Computing e DevOps na FIAP.
-
-Estou em transição de carreira para Cloud Computing e DevOps, buscando evoluir de um papel mais operacional para uma atuação focada em automação, infraestrutura, confiabilidade e escalabilidade. Essa transição vem da vontade de ir além do “apagar incêndios” e passar a construir ambientes mais estruturados, previsíveis e automatizados.
-
-Tenho um perfil mão na massa: aprendo fazendo, testando, errando e ajustando. Gosto de entender o funcionamento prático das coisas — desde a subida de containers até a comunicação entre aplicações, a configuração de ambientes e a prevenção de falhas com boas práticas.
-
-Acredito que DevOps vai além de ferramentas, sendo uma mentalidade baseada em melhoria contínua, colaboração, documentação clara e responsabilidade sobre o que é entregue em produção.
+<p align="left">
+Profissional de TI com 3 anos de experiência em suporte técnico, monitoramento de servidores e resolução de problemas em ambientes de produção. Atualmente focado em <b>Cloud Computing e DevOps</b>, cursando pós-graduação na <b>FIAP</b>. 
+<br><br>
+Especialista em transformar processos manuais em infraestrutura como código (IaC), automação e ambientes previsíveis. Possuo forte perfil "mão na massa", com projetos práticos em AWS, Terraform, Docker, Kubernetes e Linux.
 </p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🧠 Curioso por natureza e focado em resolver problemas de forma inteligente  <br>⚙️ Entusiasta de automação e padronização de ambientes  <br>☁️ Explorando o mundo de Cloud Computing e práticas DevOps  <br>📦 Containers, pipelines e infraestrutura fazem parte do meu dia a dia  <br>📈 Evolução constante, aprendizado prático e melhoria contínua  <br>🤝 Acredito em colaboração, documentação e processos bem definidos</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
 </div>
 
 ###
+
+<h2 align="left">📌 Projetos em Destaque</h2>
+
+###
+
+* **[terraform-learning](https://github.com/DiegoMeloDevOps/terraform-learning):** Provisionamento de infraestrutura AWS multi-ambiente (`dev`, `homolog`, `prod`) utilizando módulos Terraform, VPC isolada, NAT Gateway, Amazon RDS privado, AWS Secrets Manager e backend S3/DynamoDB. Projeto validado com segurança via **Checkov**.
+
+###
+
+<h2 align="left">📈 Perfil Profissional</h2>
+
+###
+
+* **Cloud & IaC:** Arquitetura AWS, Terraform (Módulos, State remoto, `for_each`), VPC, Subnets, Security Groups.
+* **Containers & Orquestração:** Docker, conceitos de Kubernetes.
+* **Automação & CI/CD:** Shell Script, Git, GitHub Actions.
+* **Background:** Graduação em Análise e Desenvolvimento de Sistemas (ADS) e Pós-Graduação em Cloud Computing e DevOps (FIAP).
+
+###
+
+<h2 align="left">📫 Conecte-se comigo</h2>
+
+###
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+</p>
