@@ -39,8 +39,7 @@ Especialista em transformar processos manuais em infraestrutura como código (Ia
 ###
 
 * **[terraform-learning](https://github.com/DiegoMeloDevOps/terraform-learning):** Provisionamento de infraestrutura AWS multi-ambiente (`dev`, `homolog`, `prod`) utilizando módulos Terraform, VPC isolada, NAT Gateway, Amazon RDS privado, AWS Secrets Manager e backend S3/DynamoDB. Projeto validado com segurança via **Checkov**.
-* **[terraform-kubernets](https://github.com/DiegoMeloDevOps/learning-kubernetes)** Deploy de aplicações containerizadas em Kubernetes utilizando Deployments, Services, ConfigMaps, Secrets, PVCs e estratégias de escalabilidade, com automação via GitHub Actions/ArgoCD. ( em desenvolvimento )
-
+* **[terraform-kubernets](https://github.com/DiegoMeloDevOps/learning-kubernetes)** Deploy de aplicações containerizadas em Kubernetes utilizando Deployments, Services, ConfigMaps, Secrets, PVCs e estratégias de escalabilidade.
 ###
 
 <h2 align="left">📈 Perfil Profissional</h2>
