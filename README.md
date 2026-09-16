@@ -58,6 +58,6 @@ Especialista em transformar processos manuais em infraestrutura como código (Ia
 ###
 
 <p align="left">
-  <a href="www.linkedin.com/in/diego-jose-de-melo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="www.linkedin.com/in/diego-josé-de-melo-960b92215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
