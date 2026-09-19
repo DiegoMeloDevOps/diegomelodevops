@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-Profissional de TI com 3 anos de experiência em suporte técnico, monitoramento de servidores e resolução de problemas em ambientes de produção. Atualmente focado em <b>Cloud Computing e DevOps</b>, cursando pós-graduação na <b>FIAP</b>. 
+Profissional de TI com 3 anos de experiência em suporte técnico, monitoramento de servidores e resolução de problemas em ambientes de produção. Atualmente focado em <b>Cloud Computing e DevOps</b>, cursando pós-graduação na <b>FIAP</b>.
 <br><br>
-Especialista em transformar processos manuais em infraestrutura como código (IaC), automação e ambientes previsíveis. Possuo forte perfil "mão na massa", com projetos práticos em AWS, Terraform, Docker, Kubernetes e Linux.
+Perfil "mão na massa", com foco em <b>automação, infraestrutura como código (IaC), containers, Kubernetes e CI/CD</b>. Busco transformar processos manuais em ambientes mais previsíveis, automatizados e escaláveis, aplicando conhecimentos práticos em AWS, Terraform, Docker, Kubernetes e Linux.
 </p>
 
 ###
@@ -38,18 +38,23 @@ Especialista em transformar processos manuais em infraestrutura como código (Ia
 
 ###
 
-* **[terraform-learning](https://github.com/DiegoMeloDevOps/terraform-learning):** Provisionamento de infraestrutura AWS multi-ambiente (`dev`, `homolog`, `prod`) utilizando módulos Terraform, VPC isolada, NAT Gateway, Amazon RDS privado, AWS Secrets Manager e backend S3/DynamoDB. Projeto validado com segurança via **Checkov**.
-* **[learning-kubernets](https://github.com/DiegoMeloDevOps/learning-kubernetes)** Deploy de aplicações containerizadas em Kubernetes utilizando Deployments, Services, ConfigMaps, Secrets, PVCs e estratégias de escalabilidade.
+* **[kubernetes-gitops](https://github.com/DiegoMeloDevOps/kubernetes-gitops):** Projeto prático de <b>CI/CD e GitOps</b> para deploy de uma aplicação containerizada em Kubernetes. Utiliza <b>Docker, Helm, GitHub Actions e Argo CD</b>, com versionamento de imagens, configuração por ambiente e atualização da aplicação via Git.
+
+* **[terraform-learning](https://github.com/DiegoMeloDevOps/terraform-learning):** Projeto de <b>Infrastructure as Code (IaC)</b> com Terraform para provisionamento de infraestrutura na AWS, utilizando <b>VPC, subnets públicas e privadas, Security Groups, NAT Gateway e RDS</b>, com organização por ambientes.
+
+* **[learning-kubernetes](https://github.com/DiegoMeloDevOps/learning-kubernetes):** Laboratório prático de <b>Kubernetes</b>, explorando <b>Deployments, Services, ConfigMaps, Secrets, Persistent Volumes, probes, namespaces, escalabilidade e troubleshooting</b> de aplicações containerizadas.
+
 ###
 
 <h2 align="left">📈 Perfil Profissional</h2>
 
 ###
 
-* **Cloud & IaC:** Arquitetura AWS, Terraform (Módulos, State remoto, `for_each`), VPC, Subnets, Security Groups.
-* **Containers & Orquestração:** Docker, conceitos de Kubernetes.
-* **Automação & CI/CD:** Shell Script, Git, GitHub Actions.
-* **Background:** Graduação em Análise e Desenvolvimento de Sistemas (ADS) e Pós-Graduação em Cloud Computing e DevOps (FIAP).
+* <b>Cloud & IaC:</b> AWS, Terraform, VPC, Subnets, Security Groups, módulos e gerenciamento de infraestrutura.
+* <b>Containers & Orquestração:</b> Docker, Kubernetes, Helm e fundamentos de GitOps.
+* <b>Automação & CI/CD:</b> Shell Script, Git, GitHub Actions e automação de processos.
+* <b>Observabilidade & Operações:</b> Monitoramento de servidores, troubleshooting e suporte a ambientes de produção.
+* <b>Formação:</b> Graduação em Análise e Desenvolvimento de Sistemas (ADS) e Pós-Graduação em Cloud Computing e DevOps (FIAP).
 
 ###
 
@@ -58,6 +63,10 @@ Especialista em transformar processos manuais em infraestrutura como código (Ia
 ###
 
 <p align="left">
-  <a href="www.linkedin.com/in/diego-josé-de-melo-960b92215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/diego-josé-de-melo-960b92215" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:seu-email@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
