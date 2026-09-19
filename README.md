@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Profissional de TI com 3 anos de experiência em suporte técnico, monitoramento de servidores e resolução de problemas em ambientes de produção. Atualmente focado em <b>Cloud Computing e DevOps</b>, cursando pós-graduação na <b>FIAP</b>.
+Profissional de TI com 3 anos de experiência em suporte técnico, monitoramento de servidores e resolução de problemas em ambientes de produção. Formado em <b>Análise e Desenvolvimento de Sistemas</b> e pós-graduado em <b>Cloud Computing e DevOps pela FIAP</b>.
 <br><br>
 Perfil "mão na massa", com foco em <b>automação, infraestrutura como código (IaC), containers, Kubernetes e CI/CD</b>. Busco transformar processos manuais em ambientes mais previsíveis, automatizados e escaláveis, aplicando conhecimentos práticos em AWS, Terraform, Docker, Kubernetes e Linux.
 </p>
