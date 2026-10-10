@@ -38,8 +38,6 @@ Perfil "mão na massa", com foco em <b>automação, infraestrutura como código 
 
 ###
 
-* **[kubernetes-gitops](https://github.com/DiegoMeloDevOps/kubernetes-gitops):** Projeto prático de <b>CI/CD e GitOps</b> para deploy de uma aplicação containerizada em Kubernetes. Utiliza <b>Docker, Helm, GitHub Actions e Argo CD</b>, com versionamento de imagens, configuração por ambiente e atualização da aplicação via Git.
-
 * **[terraform-learning](https://github.com/DiegoMeloDevOps/terraform-learning):** Projeto de <b>Infrastructure as Code (IaC)</b> com Terraform para provisionamento de infraestrutura na AWS, utilizando <b>VPC, subnets públicas e privadas, Security Groups, NAT Gateway e RDS</b>, com organização por ambientes.
 
 * **[learning-kubernetes](https://github.com/DiegoMeloDevOps/learning-kubernetes):** Laboratório prático de <b>Kubernetes</b>, explorando <b>Deployments, Services, ConfigMaps, Secrets, Persistent Volumes, probes, namespaces, escalabilidade e troubleshooting</b> de aplicações containerizadas.
